@@ -7,7 +7,7 @@ VERY ripped from Allan Hortle's [Centurion Theme](https://raw.github.com/allanho
 and Dayle Rees' [Peacock Color Sheme](https://github.com/daylerees/colour-schemes)
 
 
-![PeacockCenturion](https://github.com/feiss/PeacockCenturion/blob/master/PeacockCenturion.png)  
+![PeacockCenturion](https://raw.github.com/feiss/PeacockCenturion/master/PeacockCenturion.png)  
 
 ###Installation
 

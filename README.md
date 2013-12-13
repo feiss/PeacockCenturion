@@ -11,11 +11,11 @@ and Dayle Rees' [Peacock Color Sheme](https://github.com/daylerees/colour-scheme
 
 ###Installation
 
-1. Download and copy to your Sublime Text `Packages folder
+1. Download and copy to your Sublime Text `Packages` folder
 
 2. In your `Settings - User`, insert: 
         
-    "theme": "PeacockCenturion.sublime-theme"
+    `"theme": "PeacockCenturion.sublime-theme"`
 
 3. Select PeacockCenturion color scheme.
 

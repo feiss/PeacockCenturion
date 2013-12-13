@@ -7,11 +7,11 @@ VERY ripped from Allan Hortle's [Centurion Theme](https://raw.github.com/allanho
 and Dayle Rees' [Peacock Color Sheme](https://github.com/daylerees/colour-schemes)
 
 
-![Centurion theme](https://raw.github.com/allanhortle/Centurion/master/Centurion.png)  
+![PeacockCenturion](https://github.com/feiss/PeacockCenturion/blob/master/PeacockCenturion.png)  
 
 ###Installation
 
-1. Download and copy to your Sublime Text "Packages" folder
+1. Download and copy to your Sublime Text `Packages folder
 
 2. In your `Settings - User`, insert: 
         

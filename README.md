@@ -20,3 +20,5 @@ and Dayle Rees' [Peacock Color Sheme](https://github.com/daylerees/colour-scheme
 3. Select PeacockCenturion color scheme.
 
 4. Restart Sublime Text
+
+

@@ -70,7 +70,7 @@
     
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - PeacockCenturion/img/cross.png",
+        "layer0.texture": "PeacockCenturion/img/cross.png",
         "layer0.opacity": 0,
         "layer0.tint": [255,255,255]
     },
@@ -95,7 +95,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Theme - PeacockCenturion/img/circle.png",
+        "layer0.texture": "PeacockCenturion/img/circle.png",
         "layer0.tint": [190,100,60],
         "layer0.opacity": 1
     },
@@ -165,7 +165,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - PeacockCenturion/img/arrow.png",
+        "layer0.texture": "PeacockCenturion/img/arrow.png",
         "layer0.opacity": 0.4,
         "layer0.inner_margin": 0,
         "content_margin": [8,8]
@@ -178,7 +178,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - PeacockCenturion/img/arrow-down.png"
+        "layer0.texture": "PeacockCenturion/img/arrow-down.png"
     },
     {
         "class": "fold_button_control",
@@ -508,13 +508,13 @@
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
         "layer0.opacity": 1,
-        "layer0.texture": "Theme - PeacockCenturion/img/cross.png"
+        "layer0.texture": "PeacockCenturion/img/cross.png"
     },
     // Sidebar file dirty
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - PeacockCenturion/img/circle.png",
+        "layer0.texture": "PeacockCenturion/img/circle.png",
         "layer0.opacity": 1,
         "layer0.tint": [81,166,203]
     },
@@ -522,25 +522,25 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - PeacockCenturion/img/cross.png"
+        "layer0.texture": "PeacockCenturion/img/cross.png"
     },
     {
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - PeacockCenturion/img/cross.png",
+        "layer0.texture": "PeacockCenturion/img/cross.png",
         "layer0.opacity": 1
     },
     // Sidebar file close hover
     {
         "class": "close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - PeacockCenturion/img/cross.png"
+        "layer0.texture": "PeacockCenturion/img/cross.png"
     },
     {
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover","selected"]}],
-        "layer0.texture": "Theme - PeacockCenturion/img/cross.png",
+        "layer0.texture": "PeacockCenturion/img/cross.png",
         "layer0.opacity": 1
     },
 
@@ -552,7 +552,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [8,8],
-        "layer0.texture": "Theme - PeacockCenturion/img/folder-closed.png",
+        "layer0.texture": "PeacockCenturion/img/folder-closed.png",
         "layer0.tint": [188,212,42],
         "layer0.opacity": 1,
         "layer0.inner_margin": 0
@@ -569,7 +569,7 @@
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
-        "layer0.texture": "Theme - PeacockCenturion/img/folder-closed.png"
+        "layer0.texture": "PeacockCenturion/img/folder-closed.png"
     },
     {
         "class": "disclosure_button_control",
@@ -580,13 +580,13 @@
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - PeacockCenturion/img/folder-closed.png"
+        "layer0.texture": "PeacockCenturion/img/folder-closed.png"
     },
     // Sidebar group open
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - PeacockCenturion/img/folder-open.png"
+        "layer0.texture": "PeacockCenturion/img/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
@@ -597,28 +597,28 @@
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - PeacockCenturion/img/folder-open.png"
+        "layer0.texture": "PeacockCenturion/img/folder-open.png"
     },
     // Sidebar folder open
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - PeacockCenturion/img/folder-open.png"
+        "layer0.texture": "PeacockCenturion/img/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - PeacockCenturion/img/folder-open.png"
+        "layer0.texture": "PeacockCenturion/img/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - PeacockCenturion/img/folder-open.png"
+        "layer0.texture": "PeacockCenturion/img/folder-open.png"
     },
 
 //
@@ -845,7 +845,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - PeacockCenturion/img/asterisk.png",
+        "layer0.texture": "PeacockCenturion/img/asterisk.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
 
@@ -858,7 +858,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - PeacockCenturion/img/capital.png",
+        "layer0.texture": "PeacockCenturion/img/capital.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
     },
@@ -870,7 +870,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - PeacockCenturion/img/quotes.png",
+        "layer0.texture": "PeacockCenturion/img/quotes.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
     },
@@ -887,7 +887,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - PeacockCenturion/img/selection.png",
+        "layer0.texture": "PeacockCenturion/img/selection.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
     },
@@ -899,7 +899,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - PeacockCenturion/img/page.png",
+        "layer0.texture": "PeacockCenturion/img/page.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
     },
@@ -916,7 +916,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - PeacockCenturion/img/reverse.png",
+        "layer0.texture": "PeacockCenturion/img/reverse.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
     },
@@ -928,7 +928,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - PeacockCenturion/img/wrap.png",
+        "layer0.texture": "PeacockCenturion/img/wrap.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
     },
@@ -940,7 +940,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - PeacockCenturion/img/selection.png",
+        "layer0.texture": "PeacockCenturion/img/selection.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
     },
@@ -957,7 +957,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - PeacockCenturion/img/capital.png",
+        "layer0.texture": "PeacockCenturion/img/capital.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
     },
@@ -974,7 +974,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - PeacockCenturion/img/highlight.png",
+        "layer0.texture": "PeacockCenturion/img/highlight.png",
         "layer0.opacity": 0.3,
         "content_margin": 9
     },
